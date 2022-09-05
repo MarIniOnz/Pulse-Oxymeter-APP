@@ -1,5 +1,5 @@
 # Pulse-Oxymeter-APP
-Developing an APP that reads the light output of a pulse oxymeter and extracts the oxygenation level.
+Semester project consisting on the development of an APP that reads out the light output of a pulse oxymeter and extracts the oxygenation level.
 
 ## Calibration_Script:
 Scrip to calibrate the pulse oxymeter with healthy subjects and find their best setting.
